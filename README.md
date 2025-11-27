@@ -68,13 +68,18 @@ This allows developers to prototype logic similar to in‑game systems (camera t
 🧱 Project Structure
 /OSMXiter-Panel
  ├── src/           # Main source files
+
  ├── ui/            # Panel interface modules
+
  ├── include/       # Headers
+
  ├── assets/        # Icons + theme
+
  ├── docs/          # Documentation
+
  └── README.md
 
-🎨 Screenshots (Optional)
+🎨 Screenshots Sir T9awed Achmen Screenshot
 
 Add screenshots of your panel here.
 
@@ -88,5 +93,5 @@ It’s meant for UI testing, debugging, and simulation only.
 
 Created by OSMXiter
 GitHub: OSMXiter
-Instagram: @osmxiter
-Email: osmxiter@gmail.com
+Instagram: @osm.py
+Email: NoEmail@gmail.com
