@@ -3,7 +3,7 @@
 A lightweight, modular, research‑grade control panel designed for UI simulation, input testing, and game‑engine training scenarios inspired by Free Fire–style environments.
 
 OSMXiter Panel is 100% safe, offline, and built for educational, debugging, and interface prototyping.
-No online interaction. No modification of real game files. No bypassing. No cheating. Pure training & research.
+No online interaction. No modification of real game ( Ghi da7ek hh ) files. No bypassing. No cheating. Pure training & research.
 
 🚀 Features
 ✔ Modular UI Panel
@@ -22,9 +22,9 @@ Debug overlays
 
 ✔ Safe Environment
 
-Does NOT interact with the real Free Fire game
+Does NOT interact with the real Free Fire game ( Gha kaykedbo )
 
-Does NOT modify memory, packets, or game code
+Does NOT modify memory, packets, or game code ( Testi ou Sf )
 
 Runs in sandbox mode
 
@@ -43,6 +43,8 @@ Can be plugged into custom engines or test loaders
 🛠️ Installation
 git clone https://github.com/OSMXiter/OSMXiter-Panel.git
 cd OSMXiter-Panel
+
+or Download the zip then Run as administrator
 
 
 Open with your preferred compiler or IDE:
@@ -65,13 +67,15 @@ Integrate the panel into your engine if needed.
 
 This allows developers to prototype logic similar to in‑game systems (camera tilt, sensitivity, responsiveness…) without touching any real game.
 
-🧱 Project Structure
+🧱 Panel Azby kifach t9adat
 /OSMXiter-Panel
  ├── src/           # Main source files
 
  ├── ui/            # Panel interface modules
 
  ├── include/       # Headers
+
+ ├── Codes/         # Aim Bot + Ai + Esp + more function Added
 
  ├── assets/        # Icons + theme
 
